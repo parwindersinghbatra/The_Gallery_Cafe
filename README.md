@@ -23,11 +23,12 @@ This part contains anchor tags `<a>` for "Rate Us" and "Follow us". These create
 
 In the menu section, we've utilized various tags. For the headings, we used `<h2>` tags. The lists are created using `<ol>` (ordered lists) and `<li>` (list items) tags. Here's how it looks:
 
-![Menu and order list](https://github.com/shah9380/gallery-cafe/assets/130676464/65ca4d5b-1c4a-487e-bee2-1a1b35411b7d)
-
+![image](https://github.com/parwindersinghbatra/The_Gallery_Cafe/assets/64405014/039c6ca5-2121-4e78-b8ff-78a002088f6b)
 
 ### Contact Section
 
-In the contact section, we have used a mix of heading tags and paragraph tags for the text content. Here's the screenshot:
+In the contact section, we have used a mix of heading tag and paragraph tag and bold tag for the text content. Here's the screenshot:
 
-![contact section](https://github.com/shah9380/gallery-cafe/assets/130676464/68009b06-2c54-4dc3-9401-08b9ab70f80e)
+![image](https://github.com/parwindersinghbatra/The_Gallery_Cafe/assets/64405014/fbeb543e-17d6-4b31-8977-a1534a2418e3)
+
+
